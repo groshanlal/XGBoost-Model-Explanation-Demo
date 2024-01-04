@@ -1,7 +1,5 @@
-from sklearn.ensemble import GradientBoostingClassifier
 from sklearn import metrics
 import pandas as pd
-import numpy as np
 
 def get_adult_income_data():
     data_train = pd.read_csv('./data/adult/train.csv') 
