@@ -8,3 +8,5 @@ The demo is also available as a python code. To run the demo code from terminal,
 ```bash
 python3 run.py
 ```
+For more details on the demo, visit our blogpost: [TE2Rules: Explaining “Why did my model say that?”](https://groshanlal.medium.com/te2rules-explaining-why-did-my-model-say-that-54214941075b)
+.
